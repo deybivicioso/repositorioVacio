@@ -11,5 +11,7 @@ public class App {
         int valor=3;
         int valor1=4;
         System.out.println(valor+valor1);
+        int resultado=valor*valor1;
+        system.out.println(resultado);
     }
 }
