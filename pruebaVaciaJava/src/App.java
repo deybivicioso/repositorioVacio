@@ -8,5 +8,8 @@ public class App {
         Scanner delivery=new Scanner(System.in);
         String entrega=delivery.nextLine();
         System.out.println("el nombre del repositorio es"+ entrega);
+        int valor=3;
+        int valor1=4;
+        System.out.println(valor+valor1);
     }
 }
