@@ -7,6 +7,6 @@ public class App {
         System.out.println("ingrese el nombre del repositorio");
         Scanner delivery=new Scanner(System.in);
         String entrega=delivery.nextLine();
-        System.out.println(entrega);
+        System.out.println("el nombre del repositorio es"+ entrega);
     }
 }
