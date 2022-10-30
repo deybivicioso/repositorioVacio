@@ -12,6 +12,7 @@ public class App {
         int valor1=4;
         System.out.println(valor+valor1);
         int resultado=valor*valor1;
-        system.out.println(resultado);
+        System.out.println(resultado);
+        System.out.println("nuevo ejemplo"+ resultado);
     }
 }
